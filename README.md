@@ -15,7 +15,7 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
     <tr>
       <td>
         <a target="_blank" href="https://github.com/ardilaBeltranLeiverManuel/Hotel_room">
-          <img alt="Hotel_room" src="./img/projects/hotel.jpeg" />
+          <img alt="Hotel_room" src="./images/projects/hotel.jpeg" />
         </a>
       </td>
       <td>

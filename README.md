@@ -15,7 +15,7 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
     <tr>
       <td>
         <a target="_blank" href="https://github.com/ardilaBeltranLeiverManuel/Hotel_room">
-          <img alt="Market Volume Bot" src="./img/projects/hotel.jpeg" />
+          <img alt="Hotel_room" src="./img/projects/hotel.jpeg" />
         </a>
       </td>
       <td>
@@ -25,7 +25,7 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
       </td>
     </tr>
     <tr>
-      <td>Market Volume Bot</td>
+      <td>Hotel_Room</td>
       <td>PnL Bot</td>
     </tr>
     <tr>

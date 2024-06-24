@@ -1,13 +1,13 @@
 # Hello, I'm Ardila Leiver :wave:
-I am an experienced and skilled full stack developer with a specialization in blockchain, smart contract development, and NFTs. With over 6 years of remote work experience, I have a proven track record of delivering successful projects.
+Creative and seasoned Senior Full Stack Software Engineer with a demonstrated 6 years history of working in Information Technology. 
 
-In terms of front-end development, I am proficient in working with modern frameworks such as React and Vue. I have a deep understanding of responsive design principles and can create visually appealing applications that function seamlessly across various devices.
+I now specialize in service industries such as e-Commerce, Retail, Energy, Healthcare, and Automation process. 
 
-On the back-end, I have a strong command of Python and have utilized it to build robust and scalable applications. I am also well-versed in Next.js, React Native, Android (Java/Kotlin), Swift, and Flutter, enabling me to work on a wide range of platforms.
+Committed to delivering high-quality, scalable, and efficient software solutions that meet the needs of the client and customers. 
 
-In addition to my technical skills, I have hands-on experience with popular UI libraries like Tailwind CSS and Material-UI. I have also leveraged cloud platforms like Google Firebase and Amazon Web Services (AWS) to develop applications that are both scalable and reliable.
+A fast learner who is always fancy and up-to-date with the cutting-edge technologies, continuously improving coding skills. 
 
-My passion lies in the development of crypto bots and smart contracts. I thoroughly enjoy working with blockchain technology and have a deep understanding of the intricacies involved in creating secure and efficient systems.
+Hard-working individual dedicated to delivering high-quality code and creating efficient solutions. 
 
 I am committed to delivering high-quality solutions and leveraging my expertise to contribute to the success of your projects. Let's collaborate and create something truly remarkable!
 <table>

@@ -14,19 +14,19 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
   <tbody>
     <tr>
       <td>
-        <a target="_blank" href="https://github.com/sj19940817/market-volume-sol-bot">
-          <img alt="Market Volume Bot" src="./img/projects/market-volume.png" />
+        <a target="_blank" href="https://github.com/ardilaBeltranLeiverManuel/Hotel_room">
+          <img alt="Hotel_room" src="./images/projects/hotel.jpeg" />
         </a>
       </td>
       <td>
-        <a target="_blank" href="https://github.com/sj19940817/tg-pnl-bot">
-          <img alt="PnL Bot" src="./img/projects/pnl.png" />
+        <a target="_blank" href="https://github.com/ardilaBeltranLeiverManuel/Weather">
+          <img alt="Weather" src="./images/projects/weather.png" />
         </a>
       </td>
     </tr>
     <tr>
-      <td>Market Volume Bot</td>
-      <td>PnL Bot</td>
+      <td>Hotel_Room</td>
+      <td>Weather</td>
     </tr>
     <tr>
       <td>

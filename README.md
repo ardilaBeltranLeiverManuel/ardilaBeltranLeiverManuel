@@ -19,14 +19,14 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
         </a>
       </td>
       <td>
-        <a target="_blank" href="https://github.com/sj19940817/tg-pnl-bot">
-          <img alt="PnL Bot" src="./img/projects/pnl.png" />
+        <a target="_blank" href="https://github.com/ardilaBeltranLeiverManuel/Weather">
+          <img alt="Weather" src="./images/projects/weather.png" />
         </a>
       </td>
     </tr>
     <tr>
       <td>Hotel_Room</td>
-      <td>PnL Bot</td>
+      <td>Weather</td>
     </tr>
     <tr>
       <td>

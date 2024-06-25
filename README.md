@@ -31,12 +31,12 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
     <tr>
       <td>
         <a target="_blank" href="https://www.myntist.com/">
-          <img alt="My Ntist" src="./img/projects/myntist.png" />
+          <img alt="My Ntist" src="./images/projects/myntist.png" />
         </a>
       </td>
       <td>
         <a target="_blank" href="https://step.app/">
-          <img alt="Step App" src="./img/projects/step.png" />
+          <img alt="Step App" src="./images/projects/step.png" />
         </a>
       </td>
     </tr>
@@ -47,12 +47,12 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
     <tr>
       <td>
         <a target="_blank" href="https://www.bti.live/trading/">
-          <img alt="Trading website" src="./img/projects/trading.png" />
+          <img alt="Trading website" src="./images/projects/trading.png" />
         </a>
       </td>
       <td>
         <a target="_blank" href="https://www.pavia.io/">
-          <img alt="Pavia Metaverse" src="./img/projects/metaverse.png" />
+          <img alt="Pavia Metaverse" src="./images/projects/metaverse.png" />
         </a>
       </td>
     </tr>
@@ -63,12 +63,12 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
     <tr>
       <td>
         <a target="_blank" href="https://stake.0xscans.com/">
-          <img alt="Eth Staking DApp" src="./img/projects/staking1.png" />
+          <img alt="Eth Staking DApp" src="./images/projects/staking1.png" />
         </a>
       </td>
       <td>
         <a target="_blank" href="https://staking.partnerai.tech/">
-          <img alt="Sepolia Staking DApp" src="./img/projects/staking2.png" />
+          <img alt="Sepolia Staking DApp" src="./images/projects/staking2.png" />
         </a>
       </td>
     </tr>
@@ -79,12 +79,12 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
     <tr>
       <td>
         <a target="_blank" href="https://main--condescending-galileo-22a5af.netlify.app/">
-          <img alt="BNB Staking DApp" src="./img/projects/bnb-staking.png" />
+          <img alt="BNB Staking DApp" src="./images/projects/bnb-staking.png" />
         </a>
       </td>
       <td>
         <a target="_blank" href="https://game-nft-kitchen.vercel.app/">
-          <img alt="NFT Buy Kitchen Game" src="./img/projects/nft-game.png" />
+          <img alt="NFT Buy Kitchen Game" src="./images/projects/nft-game.png" />
         </a>
       </td>
     </tr>
